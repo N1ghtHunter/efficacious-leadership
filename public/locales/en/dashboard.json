@@ -1,0 +1,6 @@
+{
+	"errors": {
+		"noData": "No data available",
+		"fetchCourses": "Failed to fetch courses"
+	}
+}
